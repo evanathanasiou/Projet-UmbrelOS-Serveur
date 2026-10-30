@@ -1,5 +1,4 @@
-<h1 align="center">Installation
-</h1>
+<h1>Installation</h1>
 
 
 - **Télécharger le fichier ISO depuis <a href="https://umbrel.com/downloads">le site d'Umbrel</a>**
