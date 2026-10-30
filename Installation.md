@@ -3,7 +3,9 @@
 
 - Télécharger le fichier ISO depuis <a href="https://umbrel.com/downloads">le site d'Umbrel</a>
 - Utiliser une clé USB de minimum 32 Go avec <a href="https://etcher.balena.io/">BalenaEtcher</a> pour flasher le fichier ISO
-- Choisir **EFI** avec **Secure Boot OFF**, ou l'installeur de demarrera pas. Choisir un 64-bit Linux linux si l'hyperviseur le demande. A reseau en "Bridge" donnera le nom de domaine "http://umbrel.local" au serveur.
+- Choisir **EFI** avec **Secure Boot OFF**, ou l'installeur de demarrera pas.
+- Choisir un 64-bit Linux si l'hyperviseur le demande.
+- Configurer la carte réseau en "Bridge" donnera le nom de domaine "http://umbrel.local" au serveur.
 
 ## Criteres d'installation
 
