@@ -1,7 +1,6 @@
 <p align="center">
   <h1 align="center">Installation
 </h1>
-  <img width="3840" height="2880" alt="bento 2 0" src="https://github.com/user-attachments/assets/a183106e-7d8a-4b84-bd7b-4cd06c9ff148" />
 </p>
 
 - **Télécharger le fichier ISO depuis <a href="https://umbrel.com/downloads">le site d'Umbrel</a>**
