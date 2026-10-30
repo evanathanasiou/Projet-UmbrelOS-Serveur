@@ -1,7 +1,6 @@
-<p align="center">
-  <h1 align="center">Installation
+<h1 align="center">Installation
 </h1>
-</p>
+
 
 - **Télécharger le fichier ISO depuis <a href="https://umbrel.com/downloads">le site d'Umbrel</a>**
 - **Utiliser une clé USB de minimum 32 Go avec <a href="https://etcher.balena.io/">BalenaEtcher</a> pour flasher le fichier ISO**
