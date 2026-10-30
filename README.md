@@ -8,14 +8,9 @@ Projet de 1er/Tle portant sur la configuration et l'installation de UmbrelOS sur
 </p>
 
 
-- **Fresh install:** download the 2.0 beta from [umbrel.com/downloads](https://umbrel.com/downloads).
-- **Already on umbrelOS:** update to umbrelOS 1.7.4 or later, then go to **Settings > Advanced settings** and turn on **umbrelOS beta program** to receive the 2.0 beta.
-
-
-## Installation
-
--Télécharger le fichier ISO depuis le site d'Umbrel: https://umbrel.com/downloads
--Utiliser une clé USB de minimum 32 Go avec BalenaEtcher pour flasher le fichier ISO
+### Installation
+- **Télécharger le fichier ISO depuis le site d'Umbrel: https://umbrel.com/downloads**
+- **Utiliser une clé USB de minimum 32 Go avec BalenaEtcher pour flasher le fichier ISO**
 
 ### Criteres d'installation
 
