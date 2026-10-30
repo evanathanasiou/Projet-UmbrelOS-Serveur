@@ -1,9 +1,9 @@
 # Projet-UmbrelOS-Serveur
-Projet de 1er/Tle portant sur la configuration et l'installation de UmbrelOS sur un serveur d'entreprise - Dell PowerEdge R420
 
 
 <p align="center">
-  <h1 align="center">umbrelOS 2.0</h1>
+  <h1 align="center">Projet de 1er/Tle portant sur la configuration et l'installation de UmbrelOS sur un serveur d'entreprise - Dell PowerEdge R420
+</h1>
   <img width="3840" height="2880" alt="bento 2 0" src="https://github.com/user-attachments/assets/a183106e-7d8a-4b84-bd7b-4cd06c9ff148" />
 </p>
 
