@@ -4,7 +4,7 @@
 <p>
   <h1>Configuration et installation de UmbrelOS sur un serveur d'entreprise  Dell PowerEdge R420
 </h1>
-  <img width="3840" height="2880" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/64c3118ce06a819db38a66b61f8f7fbc3963ce46/image-garde-remplacer.jpeg" />
+  <img width="3840" height="2880" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/bb2a1fed7c469e7e2786089c62f33a5c449ffeb6/img/image-home.png" />
 </p>
 
 
