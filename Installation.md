@@ -35,6 +35,7 @@ Création de la VM
 <img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/8caee065b73f0f05eccc5c34e3e1984e81cc3469/img/07%20memoire.png"/>
 
 - Réseau ---> preciser carte réseaux dans "Pont (bridge)" - cela nous donnera une adresse ip a nous connecter au server lorce qu'on le demarre
+<img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/2c660aa45a3991c19f8edcf5be9105924ab5ec9c/img/08%20r%C3%A9seaux.png"/>
 
 ## Criteres d'installation
 
