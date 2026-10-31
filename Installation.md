@@ -39,7 +39,7 @@ L'installation ce fera sur un serveur d'entreprise Dell PowerEdge R420 sur l'hyp
 
 - Sur la dernière page, cliquer sur "Terminer"
 
-###Mise en route et configuration de UmbrelOS
+### Mise en route et configuration de UmbrelOS
 
 
  <img rc="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/64c3118ce06a819db38a66b61f8f7fbc3963ce46/image-garde-remplacer.jpeg" />
