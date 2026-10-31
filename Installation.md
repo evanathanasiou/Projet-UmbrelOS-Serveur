@@ -49,7 +49,8 @@ Avec les fleches du clavier, naviguer sur "EFI Firmware Setup" puis entrée
 
 #### La VM se trouve actuellement dans le BIOS
 - Naviguer sur "Device Manager" 
-lien
+<img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/35e5df3f9b17e4894175107ace6a3dddb38eacf0/img/2-02%20bios.png"/>
+
 - Puis sur "Secure Boot Configuration"
 lien
 - Descendre a l'option "Attempt Secure Boot" et appuyer sur Espace afin que la case n'est pas cochée
