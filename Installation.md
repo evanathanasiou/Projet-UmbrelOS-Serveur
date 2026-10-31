@@ -1,22 +1,23 @@
 <h1>Installation</h1>
 
-# L'instalation ce fera sur un serveur d'entreprise Dell PowerEdge R420 sur l'hyperviseur Proxmox
+L'instalation ce fera sur un serveur d'entreprise Dell PowerEdge R420 sur l'hyperviseur Proxmox
 
 
-#Prerequis
+# Prerequis
 - Télécharger le fichier ISO depuis <a href="https://umbrel.com/downloads">le site d'Umbrel</a>
 -Avoir accès au serveur Proxmox en LAN
-- Sur Proxmox aller dans la partie "local (nom d'hôte)" --> dans "Images ISO", cliquer sur "Téléverser" et choissiser le fichier ISO
+- Sur Proxmox aller dans la partie "local (nom d'hôte)" --> "Images ISO", cliquer sur "Téléverser" et choissiser le fichier ISO
   
 
 Création de la VM
 - Cliquer sur "Créer une VM"
 -Préciser un nom pour la VM (ex. "UmbrelOS"), cocher la case "Avancé, puis cliquer sur le menu "vCPU architecture" et préciser x86 (64 bits) ; umbrel os ne demarrera pas sinon
 - Dans la section "système d'exploitation preciser le fichier iso qu'on vien de televerses dans la case "Image ISO" , laisser le reste par defaut
-- **Important** Dans "système", selectionner OVMF (UEFI) et cocher la case ajouter un disque EFI ; sans cela, umbrelOS de pourra pas demarrer
-- Utiliser une clé USB de minimum 32 Go avec <a href="https://etcher.balena.io/">BalenaEtcher</a> pour flasher le fichier ISO
-- Choisir **EFI** avec **Secure Boot OFF**, ou l'installeur de demarrera pas.
-- Configurer la carte réseau en "Bridge" donnera le nom de domaine "http://umbrel.local" au serveur.
+- **Important** Dans "système", selectionner OVMF (UEFI) et preciser l'emplacement du stockage EFI "local-lvm" ; sans cela, umbrelOS de pourra pas demarrer
+- Partie "Disques" - prévoir au minimum 32 Go pour le système d'exploitation
+- Processeur ---> 4 Coeurs recommandé
+- Mémoire ---> minimum 4Go - 8 Go recommandé
+- Réseau ---> preciser carte réseaux dans "Pont (bridge)" - cela nous donnera une adresse ip a nous connecter au server lorce qu'on le demmarre
 
 ## Criteres d'installation
 
