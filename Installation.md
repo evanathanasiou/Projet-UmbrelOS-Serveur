@@ -1,6 +1,6 @@
 <h1>Installation</h1>
 
-L'instalation ce fera sur un serveur d'entreprise Dell PowerEdge R420 sur l'hyperviseur Proxmox
+L'installation ce fera sur un serveur d'entreprise Dell PowerEdge R420 sur l'hyperviseur Proxmox
 
 
 # Prerequis
