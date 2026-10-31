@@ -21,6 +21,7 @@ Création de la VM
 <img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/bafe0c099abbe9b1ec2e6035198fbc4a104aa890/img/03%20systeme%20expl.png"/>
 
 - **Important** Dans "système", selectionner OVMF (UEFI) et preciser l'emplacement du stockage EFI "local-lvm" ; sans cela, umbrelOS de pourra pas demarrer
+<img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/a912368c42900bc1502fe7d3326b0acc18d54906/img/04%20systeme.png"/>
 
 
 - Partie "Disques" - prévoir au minimum 32 Go pour le système d'exploitation
