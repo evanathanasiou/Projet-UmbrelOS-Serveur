@@ -37,6 +37,10 @@ Création de la VM
 - Réseau ---> préciser carte réseaux dans "Pont (bridge)" - cela nous donnera une adresse ip a nous connecter au server lorce qu'on le demarre
 <img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/2c660aa45a3991c19f8edcf5be9105924ab5ec9c/img/08%20r%C3%A9seaux.png"/>
 
+- Sur la dernière page, cliquer sur "Terminer"
+
+Mise en route et configuration de UmbrelOS
+
 
  <img rc="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/64c3118ce06a819db38a66b61f8f7fbc3963ce46/image-garde-remplacer.jpeg" />
 <img width="1942" height="1302" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/83a42167cb2984b6f49d54d8798bac1f08263f4f/image-installation.png" />
