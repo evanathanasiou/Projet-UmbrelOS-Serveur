@@ -37,11 +37,7 @@ Création de la VM
 - Réseau ---> préciser carte réseaux dans "Pont (bridge)" - cela nous donnera une adresse ip a nous connecter au server lorce qu'on le demarre
 <img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/2c660aa45a3991c19f8edcf5be9105924ab5ec9c/img/08%20r%C3%A9seaux.png"/>
 
-## Criteres d'installation
 
-- **Intel ou AMD :** 64-bit - Laptops, PC, NAS, ou Serveur. Minimum : Deux-Coeurs CPU, 4 GB RAM (8 GB+ conseillé), and a 32 GB drive for umbrelOS. umbrelOS boots from one drive and uses the rest for apps and data.
-- **Raspberry Pi 5:** booter depuis une clé USB ou une carte microSD
-- **Machine Virtuelle (VM):** Proxmox, VirtualBox, VMware - tout hyperviseur qui supporte "EFI boot"
  <img rc="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/64c3118ce06a819db38a66b61f8f7fbc3963ce46/image-garde-remplacer.jpeg" />
 <img width="1942" height="1302" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/83a42167cb2984b6f49d54d8798bac1f08263f4f/image-installation.png" />
 - Choisir sur quelle moyen de stockage installer umbrelOS a l'aide des touches du clavier de la liste
