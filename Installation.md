@@ -13,6 +13,7 @@ Création de la VM
 - Cliquer sur "Créer une VM"
 <img width="229" height="665" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/371a1e7abf87831edfbeeb2e3ebb151073b8a1d7/img/01%20creer%20une%20vm.png"/>
 - Préciser un nom pour la VM (ex. "UmbrelOS"), cocher la case "Avancé, puis cliquer sur le menu "vCPU architecture" et préciser x86 (64 bits) ; umbrel os ne demarrera pas sinon
+<img width="1506" height="1141" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/ccb90a81e0a4d4c6f7a6584a74d3225319ebaa4b/img/02%20general.png" />
 - Dans la section "système d'exploitation preciser le fichier iso qu'on vien de televerses dans la case "Image ISO" , laisser le reste par defaut
 - **Important** Dans "système", selectionner OVMF (UEFI) et preciser l'emplacement du stockage EFI "local-lvm" ; sans cela, umbrelOS de pourra pas demarrer
 - Partie "Disques" - prévoir au minimum 32 Go pour le système d'exploitation
