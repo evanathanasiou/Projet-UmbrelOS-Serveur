@@ -38,14 +38,14 @@ L'installation ce fera sur un serveur d'entreprise Dell PowerEdge R420 sur l'hyp
 <img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/2c660aa45a3991c19f8edcf5be9105924ab5ec9c/img/08%20r%C3%A9seaux.png"/>
 
 - Sur la dernière page, cliquer sur "Terminer"
+Avec les fleches du clavier, naviguer sur "EFI Firmware Setup" puis entrée
 
 ### Mise en route et configuration de UmbrelOS
 
 - Clique droit sur la VM ---> Cliquer sur "Démarrer"
 - Se menu doit apparaitre
-lien
+<img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/7555190b9a1afd9f07c80afde2dfdd693d6ccd24/img/2-01%20boot%20device.png"/>
 
-Avec les fleches du clavier, naviguer sur "EFI Firmware Setup" puis entrée
 
 - La VM se trouve actuellement dans le BIOS
 - Naviguer sur "Device Manager" 
