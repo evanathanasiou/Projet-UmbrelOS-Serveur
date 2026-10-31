@@ -3,7 +3,7 @@
 L'installation ce fera sur un serveur d'entreprise Dell PowerEdge R420 sur l'hyperviseur Proxmox
 
 
-# Prerequis
+# Prérequis
 - Télécharger le fichier ISO depuis <a href="https://umbrel.com/downloads">le site d'Umbrel</a>
 -Avoir accès au serveur Proxmox en LAN
 - Sur Proxmox aller dans la partie "local (nom d'hôte)" --> "Images ISO", cliquer sur "Téléverser" et choissiser le fichier ISO
