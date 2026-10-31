@@ -44,7 +44,7 @@ Avec les fleches du clavier, naviguer sur "EFI Firmware Setup" puis entrée
 
 - Clique droit sur la VM ---> Cliquer sur "Démarrer"
 - Se menu doit apparaitre
-<img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/7555190b9a1afd9f07c80afde2dfdd693d6ccd24/img/2-01%20boot%20device.png"/>
+<img width="453" height="373" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/7555190b9a1afd9f07c80afde2dfdd693d6ccd24/img/2-01%20boot%20device.png"/>
 
 
 - La VM se trouve actuellement dans le BIOS
