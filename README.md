@@ -9,16 +9,3 @@
 
 ### Installation
 Voir <a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/main/Installation.md#installation">Installation</a>
-
-
-
-
-## Building apps for umbrelOS
-
-
-
-
-
-
-
-[umbrel.com](https://umbrel.com)
