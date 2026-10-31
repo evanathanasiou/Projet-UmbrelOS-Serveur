@@ -25,6 +25,8 @@ Création de la VM
 
 
 - Partie "Disques" - prévoir au minimum 32 Go pour le système d'exploitation
+<img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/fe020475d4a3f0a772d71626e1c2f587c0e60de1/img/05%20disques.png"/>
+
 - Processeur ---> 4 Coeurs recommandé
 - Mémoire ---> minimum 4Go - 8 Go recommandé
 - Réseau ---> preciser carte réseaux dans "Pont (bridge)" - cela nous donnera une adresse ip a nous connecter au server lorce qu'on le demmarre
