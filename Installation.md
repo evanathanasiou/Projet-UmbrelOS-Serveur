@@ -32,6 +32,8 @@ Création de la VM
 
  
 - Mémoire ---> minimum 4Go - 8 Go recommandé
+<img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/8caee065b73f0f05eccc5c34e3e1984e81cc3469/img/07%20memoire.png"/>
+
 - Réseau ---> preciser carte réseaux dans "Pont (bridge)" - cela nous donnera une adresse ip a nous connecter au server lorce qu'on le demarre
 
 ## Criteres d'installation
