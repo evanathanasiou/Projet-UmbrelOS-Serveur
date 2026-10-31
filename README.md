@@ -8,7 +8,7 @@
   <img width="1280" height="720" alt="bento 2 0" src= "https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/2acdcb814e053a8056c4a082f992b1c17c720e7f/Dell-R420.jpg"
 </p>
 
-### Installation
+## Installation
 Voir <a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/main/Installation.md#installation">Installation</a>
 
 ## Criteres d'installation
