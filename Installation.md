@@ -51,13 +51,12 @@ Avec les fleches du clavier, naviguer sur "EFI Firmware Setup" puis entrée
 - Naviguer sur "Device Manager" 
 <img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/35e5df3f9b17e4894175107ace6a3dddb38eacf0/img/2-02%20bios.png"/>
 
-- Puis sur "Secure Boot Configuration"
-lien
-- Descendre a l'option "Attempt Secure Boot" et appuyer sur Espace afin que la case n'est pas cochée
-lien
+- Sur "Secure Boot Configuration", descendre a l'option "Attempt Secure Boot" et appuyer sur Espace afin que la case n'est pas cochée
+<img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/5e15a8b86f116c93cb13358c09fd17b209aa3911/img/2-03%20secure%20boot.png"/>
+ 
 - Appuyer sur F10 puis Entrée pour sortir du BIOS et sauvegarder les modifications
 
-- UmbrelOS est désormais prêt a être installé
+#### UmbrelOS est désormais prêt a être installé
 
  <img rc="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/64c3118ce06a819db38a66b61f8f7fbc3963ce46/image-garde-remplacer.jpeg" />
 <img width="1942" height="1302" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/83a42167cb2984b6f49d54d8798bac1f08263f4f/image-installation.png" />
