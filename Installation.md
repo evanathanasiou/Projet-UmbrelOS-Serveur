@@ -9,7 +9,7 @@ L'installation ce fera sur un serveur d'entreprise Dell PowerEdge R420 sur l'hyp
 - Sur Proxmox aller dans la partie "local (nom d'hôte)" --> "Images ISO", cliquer sur "Téléverser" et choissiser le fichier ISO
   
 
-###Création de la VM
+### Création de la VM
 
 - Cliquer sur "Créer une VM"
 <img width="229" height="665" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/371a1e7abf87831edfbeeb2e3ebb151073b8a1d7/img/01%20creer%20une%20vm.png"/>
