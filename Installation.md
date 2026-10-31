@@ -32,7 +32,7 @@ Création de la VM
 
  
 - Mémoire ---> minimum 4Go - 8 Go recommandé
-- Réseau ---> preciser carte réseaux dans "Pont (bridge)" - cela nous donnera une adresse ip a nous connecter au server lorce qu'on le demmarre
+- Réseau ---> preciser carte réseaux dans "Pont (bridge)" - cela nous donnera une adresse ip a nous connecter au server lorce qu'on le demarre
 
 ## Criteres d'installation
 
