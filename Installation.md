@@ -17,7 +17,7 @@ L'installation ce fera sur un serveur d'entreprise Dell PowerEdge R420 sur l'hyp
 - Préciser un nom pour la VM (ex. "UmbrelOS"), cocher la case "Avancé, puis cliquer sur le menu "vCPU architecture" et préciser x86 (64 bits). Umbrel os ne demarrera pas sinon
 <img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/ccb90a81e0a4d4c6f7a6584a74d3225319ebaa4b/img/02%20general.png"/>
 
-- Dans la section "Système d'exploitation, preciser le fichier iso qu'on vien de téléverser dans la case "Image ISO". Laisser le reste par defaut.
+- Dans la section "Système d'exploitation, preciser le fichier ISO qu'on vien de téléverser dans la case "Image ISO". Laisser le reste par defaut.
 <img width="1506" height="1141" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/bafe0c099abbe9b1ec2e6035198fbc4a104aa890/img/03%20systeme%20expl.png"/>
 
 - **Important** Dans "système", selectionner OVMF (UEFI) et preciser l'emplacement du stockage EFI "local-lvm". **Sans cela, umbrelOS de pourra pas demarrer**
