@@ -21,4 +21,4 @@ ip -br -4 addr
 
 - Sur un autre poste, saisir l'adresse IP noté dans un navigateur (ex. https://192.168.1.13)
 
-#### La page suivante devrais s'afficher
+#### La page suivante s'affichera
