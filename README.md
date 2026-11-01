@@ -8,7 +8,7 @@
 ## Installation
 <a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/main/Installation.md#installation">Installation</a>
 
-<a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/99d02e0dc14099e14f1538ec6ce61b515cd03df3/Installation.md>Installation</a>
+<a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/02e91c9e2701ef0f99b23da50d762e3d642f08f4/Accces-configuration.md">Accès et configuration</a>
 
 ## Critères d'installation
 
