@@ -11,6 +11,7 @@ Saisir l'utilisateur et mot de passe par defaut - umbrel / umbrel
 
 Saisir la commande suivante:
 
-'''
+```
 ip -br -4 addr
-'''
+```
+
