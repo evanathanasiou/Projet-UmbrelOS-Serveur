@@ -61,5 +61,5 @@ L'installation ce fera sur un serveur d'entreprise Dell PowerEdge R420 sur l'hyp
 - Lorsque la VM se redémarrera, se menu apparetra
 <img width="1942" height="1302" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/83a42167cb2984b6f49d54d8798bac1f08263f4f/image-installation.png" />
 
-- Choisir sur quelle moyen de stockage installer umbrelOS a l'aide des touches du clavier de la liste
+- Choisir sur quelle moyen de stockage installer umbrelOS a l'aide des touches du clavier de la liste, puis appuyer sur entrée
 
