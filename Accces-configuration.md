@@ -9,7 +9,9 @@ UmbrelOS est accessible en webadmin, pour y accéder, il faut trouver l'adresse 
 
 #### UmbrelOS est désormais en mode "Terminal access"
 <img width="665" height="665" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/2d9d6fee48411836d6cb0e94aa272dbdf4192bd9/3-02%20terminal.png"/>
+
 - Saisir la commande suivante:
+
 ```
 ip -br -4 addr
 ```
