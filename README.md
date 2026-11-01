@@ -6,7 +6,7 @@
 <h1>Configuration et installation de UmbrelOS sur un serveur d'entreprise  Dell PowerEdge R420</h1>
 
 ## Installation
-Voir <a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/main/Installation.md#installation">Installation</a>
+<a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/main/Installation.md#installation">Installation</a>
 
 ## Critères d'installation
 
