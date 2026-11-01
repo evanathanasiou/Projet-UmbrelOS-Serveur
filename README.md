@@ -14,7 +14,7 @@
 - 64-bit - Laptops, PC, NAS, ou Serveur.
 - Minimum : Deux-Coeurs CPU (4 Coeur conseillé), 4 GB RAM (8 GB+ conseillé)
 - Une clé USB de 4 Go pour umbrelOS.
-- **Raspberry Pi 5:** booter depuis une clé USB ou une carte microSD
-- **Machine Virtuelle (VM):** Proxmox, VirtualBox, VMware - tout hyperviseur qui supporte "EFI boot"
+**Raspberry Pi 5:** booter depuis une clé USB ou une carte microSD
+**Machine Virtuelle (VM):** Proxmox, VirtualBox, VMware - tout hyperviseur qui supporte "EFI boot"
 
  
