@@ -23,3 +23,5 @@ ip -br -4 addr
 
 #### La page suivante s'affichera
 <img width="665" height="665" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/02e91c9e2701ef0f99b23da50d762e3d642f08f4/img/3-04%20setup.png"/>
+
+- En cliquant sur "Get Started", on peut choisir un nom d'utilisateur et confirmer deux fois le mot de passe
