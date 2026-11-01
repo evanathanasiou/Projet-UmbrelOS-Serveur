@@ -16,6 +16,7 @@
 - Une clé USB de 4 Go pour umbrelOS.
 
 **Raspberry Pi 5:** booter depuis une clé USB ou une carte microSD
+
 **Machine Virtuelle (VM):** Proxmox, VirtualBox, VMware - tout hyperviseur qui supporte "EFI boot"
 
  
