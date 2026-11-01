@@ -8,6 +8,8 @@
 ## Installation
 <a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/main/Installation.md#installation">Installation</a>
 
+<a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/99d02e0dc14099e14f1538ec6ce61b515cd03df3/Installation.md>Installation</a>
+
 ## Critères d'installation
 
 **Intel ou AMD :**
