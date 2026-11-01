@@ -22,3 +22,4 @@ ip -br -4 addr
 - Sur un autre poste, saisir l'adresse IP noté dans un navigateur (ex. https://192.168.1.13)
 
 #### La page suivante s'affichera
+<img width="665" height="665" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/02e91c9e2701ef0f99b23da50d762e3d642f08f4/img/3-04%20setup.png"/>
