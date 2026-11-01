@@ -63,4 +63,4 @@ L'installation ce fera sur un serveur d'entreprise Dell PowerEdge R420 sur l'hyp
 
 - Choisir sur quelle moyen de stockage installer umbrelOS a l'aide des touches du clavier de la liste, puis appuyer sur entrée
 
-####UmbrelOS est désormais installé
+#### UmbrelOS est désormais installé
