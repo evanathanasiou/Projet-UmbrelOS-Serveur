@@ -16,3 +16,4 @@ UmbrelOS est accessible en webadmin, pour y accéder, il faut trouver l'adresse 
 ip -br -4 addr
 ```
 
+- Noter l'adresse IP qui se situe sur l'interface e#### (ex. ens18)
