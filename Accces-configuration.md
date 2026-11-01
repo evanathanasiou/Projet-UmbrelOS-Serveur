@@ -17,3 +17,4 @@ ip -br -4 addr
 ```
 
 - Noter l'adresse IP qui se situe sur l'interface e#### (ex. ens18)
+<img width="665" height="665" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/37459f2a4b3e637a4691395e4bf2b95c92c7cbe8/3-03%20ip.png"/>
