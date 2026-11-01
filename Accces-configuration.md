@@ -27,4 +27,4 @@ ip -br -4 addr
 - En cliquant sur "Get Started", on peut choisir un nom d'utilisateur et confirmer deux fois le mot de passe
 <img width="665" height="665" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/2046f2aa1f228f0d34356cc25d333fdcc7b351ad/img/3-05%20setup%20pass.png"/>
 
-#### UmbrelOS est désormais accesible en webadmin est configuré avec un utilisateur 
+#### En appuyant sur "Create", UmbrelOS est désormais accesible en webadmin est configuré avec un utilisateur 
