@@ -1,4 +1,4 @@
-<h1>Installation Services</h1>
+<h1>Déploiement Services</h1>
 
 ### Les Fonctionalités qu'on va installer sur notre serveur:
 
