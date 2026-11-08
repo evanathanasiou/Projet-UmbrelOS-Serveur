@@ -2,11 +2,11 @@
 
 ### Les Fonctionalités qu'on va installer sur notre serveur:
 
-#### Electronique
+#### Électronique
 - **<a href="https://www.home-assistant.io/">Home Assistant</a>** - permet de gerer ses appareils connecté dans sa maison - tout en local permettant de faires des automations
 - **<a href="https://mosquitto.org/">Mosquito</a>** - serveur MQTT permettant de s'abonner a des informations ex. portes garage fermé/ouverte
 
-#### Réseaux
+#### Réseau
 - Monter un disque en réseaux a l'aide d'un partage SMB hebergé sur le serveur (adresse UNC sur Windows)
 - **<a href="https://rustdesk.com/">RustDesk</a>** - service de prise de controle pour acceder des differents appareils dans son réseau a distance
 
