@@ -5,7 +5,7 @@
 </p>
 <h1>Configuration et installation de UmbrelOS sur un serveur d'entreprise  Dell PowerEdge R420</h1>
 
-## <a href="Installation.md">Introduction</a>
+## <a href="Introduction.md">Introduction</a>
 
 ## <a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/main/Installation.md#installation">Installation</a>
 
