@@ -1,7 +1,7 @@
 <h1>Introduction au projet</h1>
 
 
-### Ce projet permet:
+### Ce projet permet de:
 - Centraliser ces divers donnes et interets sur un equipement
 - Exploitent tous les aspects de la filiere CIEL
 
