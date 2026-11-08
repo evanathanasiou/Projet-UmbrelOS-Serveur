@@ -19,6 +19,7 @@
 
 **Il suffit de cliquer sur "Installer" et cliquer sur l'icon du service en question lorsque l'installation a fini**
 
-**Cela ouvrera la page du service avec le port qui lui correspond**
 
-<img width="229" height="665" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/8c74b90b1a0597f0dd38f068f0ba9c10f8186f0a/img/pi-hole%20login.png"/>
+
+<img width="550" height="665" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/8c74b90b1a0597f0dd38f068f0ba9c10f8186f0a/img/pi-hole%20login.png"/>
+**Cela ouvrera la page du service avec le port qui lui correspond**
