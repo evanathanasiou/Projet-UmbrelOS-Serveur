@@ -3,7 +3,10 @@
 
 ### Ce projet permet de:
 - **"Auto Héberger" (Self-Hosting)** - centraliser ces divers donnes et interets sur un equipement
-- Exploitent tous les aspects de la filiere CIEL
+- Exploitent les differents les aspects de la filiere CIEL
+  - Électronique
+  - Réseaux
+  - Cybersecurité
 
 #### Cette solution reste l'option la plus securisé car elle nous obliges de ne pas de se dependre des services tiers pour assusrer le fonctionnement du serveur
 
