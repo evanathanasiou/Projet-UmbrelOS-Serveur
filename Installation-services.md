@@ -15,9 +15,9 @@
 - **<a href="https://pi-hole.net/">Pi-Hole</a>** - Notre propre DNS qui permet de filtrer les requetes pertitantes et de bloquer les sites de publicité et malveillants
 
 
-**Tous les services se trouvent dans l'App Store de UmbrelOS**
+#### **Tous les services se trouvent dans l'App Store de UmbrelOS**
 
-**Il suffit de cliquer sur "Installer" et cliquer sur l'icon du service en question lorsque l'installation a fini**
+#### **Il suffit de cliquer sur "Installer" et cliquer sur l'icon du service en question lorsque l'installation a fini**
 
 
 
