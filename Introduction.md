@@ -18,3 +18,7 @@
 
 #### Dans quel but ce produit existe ? 
 - Le produit compte à faciliter le déploiement de différents services informatiques
+
+#### Fonction d’usage : 
+- UmbrelOS permet à l’utilisateur d'interagir avec le serveur depuis son ordinateur, smartphone, tablette pour réaliser des tâches informatiques ex. Stocker des fichier, filtrer les sites malveillant sur son réseaux, organiser sa libraire de films/musique...
+
