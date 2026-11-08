@@ -17,7 +17,7 @@
 
 #### **Tous les services se trouvent dans l'App Store de UmbrelOS**
 
-#### **Il suffit de cliquer sur "Installer" et cliquer sur l'icon du service en question lorsque l'installation a fini**
+#### **Il suffit de cliquer sur "Installer" et cliquer sur l'icon du service en question lorsque l'installation à fini**
 
 
 
