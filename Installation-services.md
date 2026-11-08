@@ -3,8 +3,8 @@
 ### Les Fonctionalités qu'on va installer sur notre serveur:
 
 #### Electronique
-- Home Assistant - permet de gerer ses appareils connecté dans sa maison - tout en local permettant de faires des automations
-- Mosquito - serveur MQTT permettant de s'abonner a des informations ex. portes garage fermé/ouverte
+- **<a href="https://www.home-assistant.io/">Home Assistant</a>** - permet de gerer ses appareils connecté dans sa maison - tout en local permettant de faires des automations
+- **<a href="https://mosquitto.org/">Mosquito</a>** - serveur MQTT permettant de s'abonner a des informations ex. portes garage fermé/ouverte
 
 #### Réseaux
 - Monter un disque en réseaux a l'aide d'un partage SMB hebergé sur le serveur (adresse UNC sur Windows)
