@@ -5,11 +5,12 @@
 </p>
 <h1>Configuration et installation de UmbrelOS sur un serveur d'entreprise  Dell PowerEdge R420</h1>
 
+## <a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/656e6d6c9d6a114f9ba93eb6bc245ed612f2a054/Introduction.md">Introduction</a>
+
 ## <a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/main/Installation.md#installation">Installation</a>
 
 ## <a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/656e6d6c9d6a114f9ba93eb6bc245ed612f2a054/Accces-configuration.md">Accès et configuration</a>
 
-## <a href="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/656e6d6c9d6a114f9ba93eb6bc245ed612f2a054/Introduction.md">Introduction</a>
 
 ## Critères d'installation
 
