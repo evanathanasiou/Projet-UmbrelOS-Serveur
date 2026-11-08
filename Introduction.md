@@ -5,7 +5,7 @@
 - Centraliser ces divers donnes et interets sur un equipement
 - Exploitent tous les aspects de la filiere CIEL
 
-#### Cette solution reste l'option la plus securisé car elle nous obliges de ne pas de ses dependres des tiers pour assusrer le fonctionnement du serveur
+#### Cette solution reste l'option la plus securisé car elle nous obliges de ne pas de se dependre des services tiers pour assusrer le fonctionnement du serveur
 
 #### A qui rend service le produit ?
 - Ce serveur informatique rend service au utilisateur comme au entreprises souhaitant avoir une solution efficace, redondante et centralisé.
