@@ -3,7 +3,7 @@
   <img width="3840" height="2880" alt="bento 2 0" src="https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/ecaa033b98c3b09a335894c54a98ef15a0bfcd1f/image-home.png" />
   <img width="1280" height="720" alt="bento 2 0" src= "https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/84fb649f13050000665807aef0413d2724af6a6d/img/Dell-R420.jpg"
 </p>
-<h1>Configuration et installation de UmbrelOS sur un serveur d'entreprise  Dell PowerEdge R420</h1>
+<h1>Configuration et installation de UmbrelOS sur un Dell Optiplex</h1>
 
 ## <a href="Introduction.md">Introduction</a>
 
