@@ -4,6 +4,7 @@
   <img width="1280" height="720" alt="bento 2 0" src= "https://github.com/evanathanasiou/Projet-UmbrelOS-Serveur/blob/84fb649f13050000665807aef0413d2724af6a6d/img/Dell-R420.jpg"
 </p>
 <h1>Configuration et installation de UmbrelOS sur un Dell Optiplex</h1>
+Réanimer so ancien ordinateur, tout en gagnant de la securité
 
 ## <a href="Introduction.md">Introduction</a>
 
